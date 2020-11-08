@@ -1,2 +1,2 @@
 # ATP3_PRACTISE
-all the lab tasks &amp; practises are here
+all the lab tasks, practises are here
